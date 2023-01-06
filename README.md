@@ -66,10 +66,10 @@
 <br>
 <!-- https://icons8.com -->
 <div align="center">
-  <a href="https://facebook.com/ngngvng" target="blank">
+  <a href="https://facebook.com/ngngvng">
     <img src="https://img.icons8.com/bubbles/100/000000/facebook-new.png" alt="NNVuong-facebook" />
   </a>
-  <a href="https://instagram.com/nonuvu target="blank">
+  <a href="https://instagram.com/nonuvu">
     <img src="https://img.icons8.com/bubbles/100/000000/instagram.png" alt="NNVuong-instagram" />
   </a>
   <a href="mailto:nnvuong2k@gmail.com" target="top">
