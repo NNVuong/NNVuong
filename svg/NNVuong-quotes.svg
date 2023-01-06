@@ -19,18 +19,15 @@
         .quotes-eng {
           font-size: 18px;
         }
-        .quotes-vi {
+        .quotes-a {
           font-size: 18px;
-        }
-        .trungquandev-signature {
-          font-size: 16px;
         }
 			</style>
 
 			<div class="container">
-        <div class="quotes-eng">"A primary cause of complexity is that software vendors uncritically adopt almost any feature that users want."- Niklaus Wirth</div>
-        <div class="quotes-vi">“Nguyên nhân chính của sự phức tạp là vì các phần mềm cố gắng cho vào thật nhiều những tính năng mà người dùng muốn có”</div>
-        <div class="trungquandev-signature">Ngo Nguyen Vuong</div>
+        <div class="quotes-eng">A primary cause of complexity is that software vendors uncritically adopt almost any feature that users want</div>
+        <div class="quotes-a">Niklaus Wirth</div>
+
       </div>
 		</div>
 	</foreignObject>
