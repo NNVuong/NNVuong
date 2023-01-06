@@ -78,6 +78,6 @@
 <h2 align="center">📑 My Favorites Quote 📑</h2>
 <br>
 <a href="#" target="_blank">
-  <img src="svg/NNVuong-quotes.svg" width="846" height="150" alt="NNVuong-official" />
+  <img src="svg/NNVuong-quotes.svg" width="845" height="150" alt="NNVuong-official" />
 </a>
 
