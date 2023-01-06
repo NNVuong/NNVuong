@@ -66,22 +66,13 @@
 <br>
 <!-- https://icons8.com -->
 <div align="center">
-  <a href="https://NNVuong.com" target="blank">
-    <img width="90" height="90" src="images/logo-NNVuong-transparent-bg-192x192.png" alt="NNVuong-blog" />
-  </a>
-  <a href="https://facebook.com/NNVuong" target="blank">
+  <a href="https://facebook.com/ngngvng" target="blank">
     <img src="https://img.icons8.com/bubbles/100/000000/facebook-new.png" alt="NNVuong-facebook" />
   </a>
-  <a href="https://www.youtube.com/c/NNVuongOfficial" target="blank">
-    <img src="https://img.icons8.com/bubbles/100/000000/youtube-squared.png" alt="NNVuong-youtube" />
-  </a>
-  <a href="https://www.linkedin.com/in/NNVuong" target="blank">
-    <img src="https://img.icons8.com/bubbles/100/000000/linkedin.png" alt="NNVuong-linkedin" />
-  </a>
-  <a href="https://instagram.com/NNVuong" target="blank">
+  <a href="https://instagram.com/nonuvu target="blank">
     <img src="https://img.icons8.com/bubbles/100/000000/instagram.png" alt="NNVuong-instagram" />
   </a>
-  <a href="mailto:NNVuong.official@gmail.com" target="top">
+  <a href="mailto:nnvuong2k@gmail.com" target="top">
     <img src="https://img.icons8.com/bubbles/100/000000/apple-mail.png" alt="NNVuong-email" />
   </a>
 </div>
