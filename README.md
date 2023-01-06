@@ -70,7 +70,7 @@
     <img src="https://img.icons8.com/bubbles/100/000000/facebook-new.png" alt="NNVuong-facebook" />
   </a>
   <a href="https://instagram.com/nonuvu">
-    <img src="https://img.icons8.com/bubbles/100/000000/instagram.png" alt="NNVuong-instagram" />
+    <img src="https://img.icons8.com/bubbles/100/000000/instagram-new.png" alt="NNVuong-instagram" />
   </a>
   <a href="mailto:nnvuong2k@gmail.com" target="top">
     <img src="https://img.icons8.com/bubbles/100/000000/apple-mail.png" alt="NNVuong-email" />
